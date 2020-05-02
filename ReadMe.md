@@ -71,7 +71,7 @@ valid_r_dir=os.path.join(validation_dir,'Red_Admiral')
 valid_s_dir=os.path.join(validation_dir,'Red_Spotted_Purple')
 valid_t_dir=os.path.join(validation_dir,'The_Blues')
 
-#Let's find out the total number of horse and human images in the directories:
+#Let's find out the total number of images in the directories:
 print('total Black_Swallotail in training: ', len(os.listdir(train_b_dir)))
 print('total California_Sister in training: ', len(os.listdir(train_c_dir)))
 print('total Milberts_Tortoiseshell in training: ', len(os.listdir(train_m_dir)))
