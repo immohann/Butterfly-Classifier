@@ -49,6 +49,7 @@ drive.mount('/content/drive')
 ## 3.1 Loading Dataset
 <!-- #endregion -->
 
+The Dataset is created manually by collecting the images from internet and then cleaning it to make suitable dataset
 ```python id="OwfFTs4BNaTk" colab_type="code" outputId="de5050e3-8d5a-42b6-d33e-28fd60d95997" colab={"base_uri": "https://localhost:8080/", "height": 230}
 #collecting the path for base directory
 base_dir='/content/drive/My Drive/Butterfly-Classifier/datset'
