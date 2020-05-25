@@ -26,4 +26,4 @@ The aim is to create a classifiacation model predicting the breed of the butterf
 - Visualization of results
 - Testing the model
 
-### 
+### Check the Notebook for result and analysis
